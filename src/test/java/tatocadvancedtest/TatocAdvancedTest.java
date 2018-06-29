@@ -101,7 +101,7 @@ public class TatocAdvancedTest {
 	
 	@AfterClass
 	public void closeBrowser() {
-		//driver.quit();
+		driver.quit();
 	}
 
 }
